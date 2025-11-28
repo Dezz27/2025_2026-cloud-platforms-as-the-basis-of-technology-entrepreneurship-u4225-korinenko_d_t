@@ -4,9 +4,9 @@ Course: [Cloud platforms as the basis of technology entrepreneurship](https://it
 Year: 2025/2026 \
 Group: U4225 \
 Author: Korinenko Daniil Trofimovich \
-Lab: Lab1 \
+Lab: Lab2 \
 Date of create: 28.11.2025 \
-Date of finished: \
+Date of finished: 28.11.2025 \
 
 
 ## Ход работы

@@ -6,7 +6,7 @@ Group: U4225 \
 Author: Korinenko Daniil Trofimovich \
 Lab: Lab1 \
 Date of create: 28.11.2025 \
-Date of finished: \
+Date of finished: 28.11.2025 \
 
 ## Ход работы
 1. Service Account с ролью Storage Admin ![1764343166618](image/lab1_report/1764343166618.png)
