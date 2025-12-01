@@ -6,7 +6,7 @@ Group: U4225 \
 Author: Korinenko Daniil Trofimovich \
 Lab: Lab1 \
 Date of create: 01.12.2025\
-Date of finished: \
+Date of finished: 01.12.2025
 
 # Ход работы
 
